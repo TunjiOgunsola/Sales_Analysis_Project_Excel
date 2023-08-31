@@ -9,7 +9,7 @@ The fourth file is named "DELTASIL COPPER STOCK" (File 4) also contains the inco
 
 Each files were cleaned with excel software and some columns such as 'Rate_per_meter','Location',and 'Amount' to each table.
 Since file 2,3 and 4 are of same type but diferent brands, they were merged together for convinience. While File 1 was left as stand alone because it does not have type pair.
-As a result of data cleaning, two tables were created namely 'Recline Cleaned Data' and 'Copper Cleaned Data'.
 
+As a result of data cleaning, two tables were created namely 'Recline Cleaned Data' and 'Copper Cleaned Data'.
 Recline cleaned data was analysed to produce another table 'Recline Sales Analysis' which showcase various breakdown of sales and an interactive dashboard.
 Copper cleaned data was also analysed to produce another table 'Copper Sales Analysis' which showcase various breakdown of sales by months,brands, size,location,ranking customers and an interactive dashboard.
